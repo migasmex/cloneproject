@@ -1,14 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:spotify/models/user.dart';
-import 'package:spotify/services/auth/service_auth.dart';
+import 'package:spotify/features/news/widgets/news.dart';
+import 'package:spotify/models/models.dart';
 import 'package:spotify/services/database/database_provider.dart';
-import 'package:spotify/services/database/database_service.dart';
-import 'package:spotify/widgets/custom_drawer.dart';
-import 'package:spotify/widgets/input_alert_box.dart';
-import 'package:spotify/widgets/post_tile.dart';
-
-import '../models/post.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});

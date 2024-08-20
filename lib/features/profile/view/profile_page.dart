@@ -1,12 +1,9 @@
-import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
 import 'package:provider/provider.dart';
-import 'package:spotify/models/user.dart';
+import 'package:spotify/features/profile/widgets/profile.dart';
+import 'package:spotify/models/models.dart';
 import 'package:spotify/services/auth/service_auth.dart';
 import 'package:spotify/services/database/database_provider.dart';
-import 'package:spotify/widgets/bio_box.dart';
-import 'package:spotify/widgets/input_alert_box.dart';
 
 class ProfilePage extends StatefulWidget {
   final String uid;
