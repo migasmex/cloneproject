@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "331330989405",
+    "project_id": "twitter-93a52",
+    "storage_bucket": "twitter-93a52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331330989405:android:bbe42c4c249fa9a5084cb4",
+        "android_client_info": {
+          "package_name": "app.migasmex.twitter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQJ8fC5sufa_5LB-PUG-1QP14a-pmeO-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331330989405:android:9d136c7d10fb0765084cb4",
+        "android_client_info": {
+          "package_name": "com.example.spotify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQJ8fC5sufa_5LB-PUG-1QP14a-pmeO-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
